@@ -209,4 +209,5 @@ __marimo__/
 
 
 *.pickle
-
+.ipynb_checkpoints/
+columns.json
